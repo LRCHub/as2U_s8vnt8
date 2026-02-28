@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "毒味",
+  "base_artist": "東京事変",
+  "createdAt": "2026-02-28T11:55:34.966332Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dokumi [毒味]",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/01_Dokumi_[毒味]_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "毒味",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_毒味_東京事変.txt"
+    }
+  ]
+}
